@@ -987,7 +987,8 @@ __Words of encouragement and support__
 
 
 ## License 
-Copyright © 2019-present [Faye Amacker](https://github.com/fxamacker).
+Copyright © 2019-present [Faye Amacker](https://github.com/fxamacker).  
+Portions (from [Go](https://github.com/golang/go)) Copyright © 2009 The Go Authors.
 
 fxamacker/cbor is licensed under the MIT License.  See [LICENSE](LICENSE) for the full license text.
 
